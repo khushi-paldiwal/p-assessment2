@@ -1,4 +1,4 @@
-## CacheMatrix By Alex Gola
+
 ## Caching the Inverse of a Matrix:
 ## This makes a "matrix" which can cache it's own inverse.
 makeCacheMatrix <- function(x = matrix()) {
